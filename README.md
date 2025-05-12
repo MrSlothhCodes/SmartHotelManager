@@ -30,16 +30,16 @@ pip install -r Scripts/requirements.txt
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/74e4ab54-6377-42c5-95a9-8d91e2d024c4)
-**Main Menu** 
+## Main Menu 
 
 ![image](https://github.com/user-attachments/assets/0d38693b-3662-4080-910c-b1feb2e51b42)
-**Inventory Predictor**
+## Inventory Predictor
 
 ![image](https://github.com/user-attachments/assets/175ec8bd-b2bd-42b8-9263-332f03bfc2ad)
-**Billing**
+## Billing
 
 
 ## Acknowledgments
-Developed by **Java Chip Frappe** for hackathon 
+Developed by **Java Chip Frappe** for a Hackathon 
 
 For any questions or support, please contact [suryanshahuja11@gmail.com].
