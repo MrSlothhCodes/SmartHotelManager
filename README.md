@@ -1,4 +1,4 @@
-# # Smart Hotel Manager
+## Smart Hotel Manager
 
 This is a comprehensive **Hotel Management System** designed to streamline hotel operations, including sales, purchases, inventory management, and client management. The system also incorporates AI-powered features like stock prediction to optimize inventory management.
 
